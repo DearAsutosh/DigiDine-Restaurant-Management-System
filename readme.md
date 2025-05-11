@@ -66,7 +66,7 @@ ER diagram and SQL dump available in `/database` folder.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/DigiDine-Restaurant-Management-System.git
+   git clone https://github.com/DearAsutosh/DigiDine-Restaurant-Management-System.git
    ```
 2. Import into Eclipse/NetBeans or any Java EE IDE.
 
